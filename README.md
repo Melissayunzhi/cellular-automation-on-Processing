@@ -1,2 +1,2 @@
 # cellular-automation-on-Processing
-the game of life I guess
+Thanks to my gcse math teacher who introduced me to the rules of The Game of Life.
